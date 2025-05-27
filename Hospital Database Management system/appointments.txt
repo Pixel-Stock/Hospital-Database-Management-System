@@ -1,0 +1,1 @@
+{'1': {'name': 'Tanmay Patil', 'doctor': 'Dr. Samruddhi Patil', 'phone': '69420', 'gender': 'Male', 'date': '2025-05-27', 'time': '10:00 AM', 'reason': 'Back Pain', 'status': 'Scheduled'}, '2': {'name': 'Rohan Patil', 'doctor': 'Dr. Varadraj Patil', 'phone': '9876543211', 'gender': 'Male', 'date': '2025-05-26', 'time': '10:30 AM', 'reason': 'Chest Pain'}}
